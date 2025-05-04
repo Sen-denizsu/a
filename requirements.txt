@@ -1,4 +1,5 @@
 Flask==2.3.3
+Supabase
 python-dotenv==1.0.1
 google-generativeai==0.7.2
 requests==2.32.3
